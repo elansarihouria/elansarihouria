@@ -28,17 +28,14 @@ or <a href="mailto:houria.elansari@usmba.ac.ma"><b>email</b></a> me.
   <!-- <a target="_blank" href="https://www.linkedin.com/in/houria-el-ansari-3aa310172/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
   <a target="_blank" href="https://www.instagram.com/elansarihouria/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
 
-  <a target="_blank" href="https://www.peopleperhour.com/freelancer/technology-programming/houria-el_ansari-embedded-systems-engenier-vznnxqa">P​E​O​P​P​L​E​P​E​R​H​O​U​R</a> -->
 
 <a href="https://www.linkedin.com/in/houria-el-ansari-3aa310172/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/elansarihouria/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
-<a href="https://www.peopleperhour.com/freelancer/technology-programming/houria-el_ansari-embedded-systems-engenier-vznnxqa" target="_blank"><img src="https://img.shields.io/badge/peopleperhour%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="PeoplePerHour"></a>
 
 </div>
 
-<!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/houria-el-ansari-3aa310172/) ● [🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​](https://www.instagram.com/elansarihouria/) ● [P​E​O​P​P​L​E​P​E​R​H​O​U​R](https://www.peopleperhour.com/freelancer/technology-programming/houria-el_ansari-embedded-systems-engenier-vznnxqa) ●
-
+<!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/houria-el-ansari-3aa310172/) ● [🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​](https://www.instagram.com/elansarihouria/) 
 <!--
 
 
