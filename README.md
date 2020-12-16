@@ -21,8 +21,8 @@ or <a href="mailto:houria.elansari@usmba.ac.ma"><b>email</b></a> me.
 
 </br>
 </br>
-### Languages
 
+![Linux](https://img.shields.io/badge/-Linux-fff?&logo=linux&logoColor=000)
 [![Python](https://img.shields.io/badge/-Python-fff?&logo=python)](https://github.com/elansarihouria?tab=repositories&q=&type=&language=python)
 [![C](https://img.shields.io/badge/-C-fff?&logo=C)](https://github.com/elansarihouria?tab=repositories&q=&type=&language=c)
 ![C++](https://img.shields.io/badge/-C++-fff?&logo=c%2b%2b&logoColor=00599C)
