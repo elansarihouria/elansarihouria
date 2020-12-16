@@ -12,7 +12,7 @@
 
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/ABSphreak/ABSphreak/issues/new"><b>here</b></a><br>
+Ask me anything <a href="https://github.com/elansarihouria/elansarihouria/"><b>here</b></a><br>
 or <a href="mailto:houria.elansari@usmba.ac.ma"><b>email</b></a> me.
 
 <i>Happy Coding!</i> 😊
@@ -25,27 +25,23 @@ or <a href="mailto:houria.elansari@usmba.ac.ma"><b>email</b></a> me.
 
 </br>
 </br>
-<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
 
----
-[![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
 
 <i>Follow me around the web:</i><br>
 
-  <!-- <a target="_blank" href="linkedin.com/in/houria-el-ansari-3aa310172">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
+  <!-- <a target="_blank" href="https://www.linkedin.com/in/houria-el-ansari-3aa310172/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
   <a target="_blank" href="https://www.instagram.com/elansarihouria/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
 
   <a target="_blank" href="https://www.peopleperhour.com/freelancer/technology-programming/houria-el_ansari-embedded-systems-engenier-vznnxqa">P​E​O​P​P​L​E​P​E​R​H​O​U​R</a> -->
 
-<a href="linkedin.com/in/houria-el-ansari-3aa310172" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/houria-el-ansari-3aa310172/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/elansarihouria/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 <a href="https://www.peopleperhour.com/freelancer/technology-programming/houria-el_ansari-embedded-systems-engenier-vznnxqa" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
 </div>
 
-<!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](linkedin.com/in/houria-el-ansari-3aa310172) ● [🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​](https://www.instagram.com/elansarihouria/) ● [P​E​O​P​P​L​E​P​E​R​H​O​U​R](https://www.peopleperhour.com/freelancer/technology-programming/houria-el_ansari-embedded-systems-engenier-vznnxqa) ●
+<!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/houria-el-ansari-3aa310172/) ● [🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​](https://www.instagram.com/elansarihouria/) ● [P​E​O​P​P​L​E​P​E​R​H​O​U​R](https://www.peopleperhour.com/freelancer/technology-programming/houria-el_ansari-embedded-systems-engenier-vznnxqa) ●
 
 <!--
 
