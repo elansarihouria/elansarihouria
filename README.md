@@ -29,16 +29,16 @@ or <a href="mailto:houria.elansari@usmba.ac.ma"><b>email</b></a> me.
   <a target="_blank" href="https://www.instagram.com/elansarihouria/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
 
 
+
 <a href="https://www.linkedin.com/in/houria-el-ansari-3aa310172/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/elansarihouria/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.instagram.com/elansarihouria" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 
 </div>
 
- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/houria-el-ansari-3aa310172/) ● [🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​](https://www.instagram.com/elansarihouria/) 
+<!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/houria-el-ansari-3aa310172/) ● [🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​](https://www.instagram.com/elansarihouria/) ● -->
 
-
-
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
