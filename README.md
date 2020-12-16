@@ -37,7 +37,7 @@ or <a href="mailto:houria.elansari@usmba.ac.ma"><b>email</b></a> me.
 <a href="https://www.linkedin.com/in/houria-el-ansari-3aa310172/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/elansarihouria/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
-<a href="https://www.peopleperhour.com/freelancer/technology-programming/houria-el_ansari-embedded-systems-engenier-vznnxqa" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+<a href="https://www.peopleperhour.com/freelancer/technology-programming/houria-el_ansari-embedded-systems-engenier-vznnxqa" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="PeoplePerHour"></a>
 
 </div>
 
