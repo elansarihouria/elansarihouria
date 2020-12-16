@@ -26,7 +26,7 @@ or <a href="mailto:houria.elansari@usmba.ac.ma"><b>email</b></a> me.
 <i>Follow me around the web:</i><br>
 
   <!-- <a target="_blank" href="https://www.linkedin.com/in/houria-el-ansari-3aa310172/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
-  <a target="_blank" href="https://www.instagram.com/elansarihouria/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
+  <a target="_blank" href="https://www.instagram.com/elansarihouria/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a>  -->
 
 
 
