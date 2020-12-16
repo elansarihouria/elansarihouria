@@ -35,8 +35,8 @@ or <a href="mailto:houria.elansari@usmba.ac.ma"><b>email</b></a> me.
 
 </div>
 
-<!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/houria-el-ansari-3aa310172/) ● [🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​](https://www.instagram.com/elansarihouria/) 
-<!--
+ [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/houria-el-ansari-3aa310172/) ● [🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​](https://www.instagram.com/elansarihouria/) 
+
 
 
 Here are some ideas to get you started:
